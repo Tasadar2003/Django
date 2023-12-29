@@ -41,6 +41,8 @@ INSTALLED_APPS = [
 
     # 3dh party apps
     'djrichtextfield',
+    'rest_framework',
+    'drf_yasg',
     
     # My Apps
     'catalog',
